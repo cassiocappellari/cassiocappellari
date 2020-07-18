@@ -1,7 +1,5 @@
 ## 👨‍🚀 Hello world, I'm Cássio Cappellari!
 
----
-
 Fullstack engineer passionate about create great solutions in the form of impactful products to solve problems around finance, health and education.
 
 🤖 Programming Languages
