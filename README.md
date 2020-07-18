@@ -19,10 +19,3 @@ Fullstack engineer passionate about create great solutions in the form of impact
 💾 Database
 
 - PostgreSQL
-
-💙 Hobbies
-
-- Reading
-- Yoga
-- Sports
-- Travelling
