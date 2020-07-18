@@ -4,12 +4,12 @@
 
 Fullstack engineer passionate about create great solutions in the form of impactful products to solve problems around finance, health and education.
 
-## 🤖 Programming Languages
+🤖 Programming Languages
 
 - Python
 - Javascript
 
-## 🚀 Frameworks
+🚀 Frameworks
 
 - Node.js
 - React.js
