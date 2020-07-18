@@ -13,6 +13,17 @@ Fullstack engineer passionate about create great solutions in the form of impact
 - React.js
 - React Native
 
+💾 Database
+
+- PostgreSQL
+
+💙 Hobbies
+
+- Reading
+- Yoga
+- Sports
+- Travelling
+
 <!--
 **cassiocappellari/cassiocappellari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
