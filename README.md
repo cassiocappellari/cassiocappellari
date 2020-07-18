@@ -2,9 +2,12 @@
 
 Fullstack engineer passionate about create great solutions in the form of impactful products.
 
-🤖 Programming Languages
+🤖 Languages
 
+- SQL
 - Python
+- HTML
+- CSS
 - Javascript
 
 🚀 Frameworks
