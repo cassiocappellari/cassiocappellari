@@ -1,10 +1,19 @@
-### 👨‍🚀 Hello world, I'm Cássio Cappellari!
+## 👨‍🚀 Hello world, I'm Cássio Cappellari!
 
 ---
 
-## Fullstack engineer passionate about create great solutions in the form of impactful products to solve problems around finance, health and education.
+Fullstack engineer passionate about create great solutions in the form of impactful products to solve problems around finance, health and education.
 
----
+## 🤖 Programming Languages
+
+- Python
+- Javascript
+
+## 🚀 Frameworks
+
+- Node.js
+- React.js
+- React Native
 
 <!--
 **cassiocappellari/cassiocappellari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
