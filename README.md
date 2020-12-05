@@ -1,21 +1,16 @@
 ## 👨‍🚀 Hello world, I'm Cássio Cappellari!
 
-Fullstack engineer passionate about create great solutions in the form of impactful products.
+I’m a junior software engineer passionate about technology, startups and innovation with a solid professional background in business, marketing and product development.
 
-🤖 Languages
+🤖 Technologies 🚀
 
-- SQL
+- JavaScript
+- TypeScript
 - Python
 - HTML
 - CSS
-- Javascript
-
-🚀 Frameworks
-
+- SQL
 - Node.js
 - React.js
-- React Native
-
-💾 Database
-
 - PostgreSQL
+- MongoDB
