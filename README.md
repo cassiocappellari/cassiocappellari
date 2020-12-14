@@ -2,5 +2,4 @@
 
 ### I’m a junior software engineer passionate about technology, startups and innovation.
 
-- 💻 JavaScript, TypeScript, Node.js, MongoDB, PostgreSQL and **more**
-- 🚀 Solid professional background in business, marketing and product development
+- 💻 JavaScript, TypeScript, Node.js, MongoDB, PostgreSQL and **more**.
