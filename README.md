@@ -18,6 +18,6 @@
 <details>
   <summary>:zap: Main Languages</summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiocappellari&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiocappellari&layout=compact&theme=dark)
 
 </details>
