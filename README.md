@@ -3,6 +3,9 @@
 #### I’m a junior backend software engineer passionate about technology, business, startups and innovation.
 
 - 💻 JavaScript, TypeScript, Node.js, MongoDB, PostgreSQL and **more**.
+- 👨🏻‍💻 I’m currently working as a junior backend software engineer.
+- 🚀 I'm a voluteer mentor at Space Squad [@Rocketseat](https://rocketseat.com.br/).
+- 👨🏼‍🎓 I have a Bachelor's Degree in Business with a MBA in Leadership, Management and Innovation.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cassiocappellari)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cassiocappellari/)
