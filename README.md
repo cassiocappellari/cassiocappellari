@@ -1,6 +1,6 @@
 ## Hello world, I'm Cássio Cappellari! <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px"/>👨‍🚀
 
-#### I’m a junior backend software engineer passionate about technology, business, startups and innovation.
+#### I’m a backend software engineer passionate about technology, business, startups and innovation.
 
 - 💻 JavaScript, TypeScript, Node.js, MongoDB, PostgreSQL and **more**.
 - 👨🏻‍💻 I’m currently working as a junior backend software engineer.
