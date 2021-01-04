@@ -3,7 +3,7 @@
 #### I’m a backend software engineer passionate about technology, business, startups and innovation.
 
 - 💻 JavaScript, TypeScript, Node.js, MongoDB, PostgreSQL and **more**.
-- 👨🏻‍💻 I’m currently working as a junior backend software engineer.
+- 👨🏻‍💻 I’m currently working as a backend software engineer.
 - 🚀 I'm a voluteer mentor at Space Squad [@Rocketseat](https://rocketseat.com.br/).
 - 👨🏼‍🎓 I have a Bachelor's Degree in Business with a MBA in Leadership, Management and Innovation.
 
