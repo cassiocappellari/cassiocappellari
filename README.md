@@ -3,7 +3,7 @@
 #### I’m a software engineer passionate about technology, business, startups and innovation.
 
 - 💻 Node.js, React.js, TypeScript, JavaScript, PostgreSQL, MySQL, MongoDB and **more**.
-- 👨🏻‍💻 I’m currently working as a Full-stack Software Developer.
+- 👨🏻‍💻 I’m currently working as a Full-stack Software Developer at [@Phi](https://somosphi.com/).
 - 🚀 I'm a volunteer mentor at Space Squad [@Rocketseat](https://rocketseat.com.br/).
 - 👨🏼‍🎓 I have a Bachelor's Degree in Business with a MBA in Leadership, Management and Innovation.
 - 📚 I'm currently a System Analysis and Development degree student at [@FIAP](https://www.fiap.com.br/).
