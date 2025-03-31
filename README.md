@@ -3,7 +3,6 @@
 #### I’m a software engineer passionate about programming, technology, business, startups and innovation.
 
 - 💻 Node.js, Vue.js, React.js, TypeScript, JavaScript, PostgreSQL, MySQL, MongoDB and **more**.
-- 👨🏻‍💻 I’m currently working as a Full Stack Software Engineer at [@Embat](https://www.embat.io/).
 - 👨🏼‍🎓 I have a Bachelor's Degree in Business with a MBA in Leadership, Management and Innovation by [@PUC/RS](https://www.pucrs.br/).
 - 🤖 I have a Technology Degree in System Analysis and Development by [@FIAP](https://www.fiap.com.br/).
 
