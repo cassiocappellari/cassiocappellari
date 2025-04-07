@@ -11,13 +11,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cassiocappellari@gmail.com)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Cássio Cappellari's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiocappellari&show_icons=true&theme=dark&count_private=true)
-
-</details>
-
-<details>
   <summary>:zap: Main Languages</summary>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiocappellari&layout=compact&theme=dark)
